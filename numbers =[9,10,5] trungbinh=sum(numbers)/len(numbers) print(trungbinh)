@@ -1,0 +1,3 @@
+numbers =[9,10,5]
+trungbinh=sum(numbers)/len(numbers)
+print(trungbinh)
